@@ -31,8 +31,7 @@ PRODUCT_PACKAGES += \
     OnePlusCamera \
     OnePlusGallery \
     OnePlusCameraService \
-    seccamservice \
-    Email
+    seccamservice
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/prebuilts/etc/permissions/privapp-permissions-oem.xml:system/etc/permissions/privapp-permissions-oem.xml
